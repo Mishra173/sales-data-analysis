@@ -1,4 +1,4 @@
-  Sales Data SQL Analysis
+  Sales Data  Analysis
 
 This project analyzes a Kaggle sales dataset using MySQL. 
 The goal was to understand business performance such as revenue, profit, order trends, and top‑selling items.
