@@ -30,7 +30,7 @@ Each query has a short description above it.
 
 - `queries.sql`    → All SQL queries used for analysis
 - `README.md`      → Project summary (this file)
-- `sales_data.csv` →  dataset file
+- `Sale_Dataset.csv` →  dataset file
 - 
    Notes
 - Month is shown in Year-Month format (YYYY-MM) — this is correct.
