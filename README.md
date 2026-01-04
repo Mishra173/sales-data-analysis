@@ -33,7 +33,7 @@ Each query has a short description above it.
 - `Sale_Dataset.csv` →  dataset file
 - 
    Notes
-- Month is shown in Year-Month format (YYYY-MM) — this is correct.
+- Month is shown in Year-Month format (YYYY-MM) .
 - Queries are organized with comments for clarity and easy understanding.
 - All numeric columns with spaces are enclosed in backticks (`) for MySQL.
 
